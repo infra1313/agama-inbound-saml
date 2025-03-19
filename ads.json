@@ -13,6 +13,9 @@
             "authentication"
         ],
         "noDirectLaunch": [],
-        "configs": {}
+        "configs": {
+            "co.acme.password": {}
+        },
+        "name": "SAML"
     }
 }
