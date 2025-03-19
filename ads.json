@@ -1,1 +1,18 @@
-{}
+{
+    "SAML": {
+        "projectName": "SAML",
+        "description": "SAML",
+        "type": "community",
+        "author": "infra1313",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/infra1313/agama-inbound-saml",
+        "githubUri": "https://github.com/infra1313/agama-inbound-saml",
+        "license": "apache-2.0",
+        "lastUpdated": "1742381526917",
+        "tags": [
+            "authentication"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
